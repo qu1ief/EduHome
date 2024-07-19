@@ -1,0 +1,84 @@
+﻿@model CourseCreateVm
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Create Category</h4>
+        <form class="forms-sample" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="exampleInputUsername1">Image</label>
+                <input class="form-control" asp-for="Image" placeholder="Image" accept="image/*">
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="exampleInputEmail1">Name</label>
+                <input class="form-control" asp-for="Name" placeholder="Name">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="exampleInputPassword1">Price</label>
+                <input class="form-control" asp-for="Price" placeholder="Price">
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="exampleInputConfirmPassword1">Description</label>
+                <input class="form-control" asp-for="Description" placeholder="Description" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="exampleInputConfirmPassword1">StartTime</label>
+                <input class="form-control" asp-for="StartTime" placeholder="Start Time">
+                <span asp-validation-for="StartTime" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="exampleInputConfirmPassword1">Duration</label>
+                <input class="form-control" asp-for="Duration" placeholder="Duration">
+                <span asp-validation-for="Duration" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="exampleInputConfirmPassword1">ClassDuration</label>
+                <input class="form-control" asp-for="ClassDuration" placeholder="ClassDuration">
+                <span asp-validation-for="ClassDuration" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label for="exampleInputConfirmPassword1">SkillLevel</label>
+                <input class="form-control" asp-for="SkillLevel" placeholder="SkillLevel">
+                <span asp-validation-for="SkillLevel" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="exampleInputConfirmPassword1">StudentCount</label>
+                <input class="form-control" asp-for="StudentCount" placeholder="StudentCount">
+                <span asp-validation-for="StudentCount" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="exampleInputConfirmPassword1">Assesments</label>
+                <input class="form-control" asp-for="Assesments" placeholder="Assesments">
+                <span asp-validation-for="Assesments" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="exampleInputConfirmPassword1">Language</label>
+                <input class="form-control" asp-for="Language" placeholder="Language">
+                <span asp-validation-for="Language" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="CatogoryIds">Categories</label>
+                <select class="form-control" name="CategoryIds" id="CategoryIds" multiple>
+                    @foreach (Category category in ViewBag.Categories)
+                    {
+                        <option value="@category.Id">@category.Name</option>
+                    }
+                </select>
+                <span asp-validation-for="CategoryIds" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary mr-2">Create</button>
+            <a class="btn btn-light" asp-action="Index">Cancel</a>
+        </form>
+    </div>
+</div>
