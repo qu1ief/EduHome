@@ -7573,6 +7573,14 @@
       "PackagePath": "staticwebassets\\fonts\\ionicons28b5.woff"
     },
     {
+      "Id": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\wwwroot\\img\\017bb687-8fb2-43dd-a9de-b868da76e1aa.jpg",
+      "PackagePath": "staticwebassets\\img\\017bb687-8fb2-43dd-a9de-b868da76e1aa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\wwwroot\\img\\668a9e5d-4d42-495d-aff9-a381978f11e1.jpg",
+      "PackagePath": "staticwebassets\\img\\668a9e5d-4d42-495d-aff9-a381978f11e1.jpg"
+    },
+    {
       "Id": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\wwwroot\\img\\about\\about.png",
       "PackagePath": "staticwebassets\\img\\about\\about.png"
     },

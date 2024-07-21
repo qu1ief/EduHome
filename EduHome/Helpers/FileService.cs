@@ -31,4 +31,12 @@ public static class FileService
         return filename;
     }
 
+    public static void DeleteFile(this string filename, string path)
+    {
+        path = Path.Combine(path, filename);
+
+        if (File.Exists(path))
+            File.Delete(path);
+    }
+
 }

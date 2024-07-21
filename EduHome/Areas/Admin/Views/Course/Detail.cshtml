@@ -1,0 +1,31 @@
+﻿@model Course
+<div class="card" style="width: 36rem;margin:0 auto;">
+    <img class="card-img-top" src="~/img/@Model.ImagePath" alt="Card image cap">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">@Model.Description</p>
+    </div>
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item">Price: @Model.Price</li>
+        <li class="list-group-item">Start Time: @Model.StartTime.ToShortDateString()</li>
+        <li class="list-group-item">Duration: @Model.Duration</li>
+        <li class="list-group-item">Class Duration: @Model.ClassDuration</li>
+        <li class="list-group-item">Skill Level: @Model.SkillLevel</li>
+        <li class="list-group-item">Language: @Model.Language</li>
+        <li class="list-group-item">Student Count: @Model.StudentCount</li>
+        <li class="list-group-item">Assesments: @Model.Assesments</li>
+        <ul>
+            Categories
+            @foreach (var courseCategory in Model.CourseCategories)
+            {
+                <li>
+                    @courseCategory.Category.Name
+                </li>
+
+            }
+        </ul>
+    </ul>
+    <div class="card-body">
+        <a asp-action="Index" style="margin:0 auto"  class="btn btn-secondary">Back</a>
+    </div>
+</div>
