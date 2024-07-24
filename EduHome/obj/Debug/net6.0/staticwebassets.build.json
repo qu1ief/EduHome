@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fdWX8Jq2dH/RcXqagoTFc0Z7ekRQJaSKGbL5pvC2ghA=",
+  "Hash": "Lwv8Stxa+vwy4esnmPTTz93yfulEmWJ2Z8QHcpsqzro=",
   "Source": "EduHome",
   "BasePath": "_content/EduHome",
   "Mode": "Default",
@@ -36875,6 +36875,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\event\\speaker2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\wwwroot\\img\\fdf01303-15c6-46a2-b93a-c98af3a947e4.jpg",
+      "SourceId": "EduHome",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\wwwroot\\",
+      "BasePath": "_content/EduHome",
+      "RelativePath": "img/fdf01303-15c6-46a2-b93a-c98af3a947e4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\fdf01303-15c6-46a2-b93a-c98af3a947e4.jpg"
     },
     {
       "Identity": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\wwwroot\\img\\footer\\footer1.jpg",

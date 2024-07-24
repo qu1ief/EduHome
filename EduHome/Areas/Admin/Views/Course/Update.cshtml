@@ -5,6 +5,7 @@
         <form class="forms-sample" method="post" enctype="multipart/form-data">
             <div class="form-group">
                 <img src="~/img/@Model.ImagePath" />
+                <input type="hidden" asp-for="ImagePath"/>
                 <label for="exampleInputUsername1">Image</label>
                 <input class="form-control" asp-for="Image" placeholder="Image" accept="image/*">
                 <span asp-validation-for="Image" class="text-danger"></span>

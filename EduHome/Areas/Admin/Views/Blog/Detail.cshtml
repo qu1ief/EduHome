@@ -1,0 +1,18 @@
+﻿@model Blog
+<div class="card" style="width: 36rem;margin:0 auto;">
+    <img class="card-img-top" src="~/img/@Model.ImagePath" alt="Card image cap">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Title</h5>
+    </div>
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item">Description: @Model.Description</li>
+        <li class="list-group-item">Created Time: @Model.CreatedTime.ToShortDateString()</li>
+        <li class="list-group-item">Author: @Model.Author</li>
+      
+        <li class="list-group-item">Category: @Model.BlogCategory.Name</li>
+       
+    </ul>
+    <div class="card-body">
+        <a asp-action="Index" style="margin:0 auto" class="btn btn-secondary">Back</a>
+    </div>
+</div>

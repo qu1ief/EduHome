@@ -3,32 +3,116 @@
   "WorkspaceRootPath": "C:\\Users\\Asiman\\source\\repos\\EduHome\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\views\\blog\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\views\\blog\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\views\\course\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\views\\course\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\views\\course\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\views\\course\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\helpers\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\helpers\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\views\\blog\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\views\\blog\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\viewmodels\\blogviewmodels\\blogcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\viewmodels\\blogviewmodels\\blogcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\controllers\\blogcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\controllers\\blogcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\views\\blogcategory\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\views\\blogcategory\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\views\\blogcategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\views\\blogcategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\viewmodels\\categoryviewmodels\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\viewmodels\\categoryviewmodels\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\viewmodels\\blogcategoryviewmodels\\blogcategorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\viewmodels\\blogcategoryviewmodels\\blogcategorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\views\\blogcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\views\\blogcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Migrations\\20240724195308_addedBlogsAndBlogCategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EduHome\\Migrations\\20240724195308_addedBlogsAndBlogCategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\helpers\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\helpers\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,36 +123,16 @@
       "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\viewmodels\\courseviewmodels\\coursecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\viewmodels\\courseviewmodels\\coursecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\viewmodels\\categoryviewmodels\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\viewmodels\\categoryviewmodels\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -81,10 +145,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\migrations\\20240719130656_addedcourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -107,10 +167,6 @@
       "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|c:\\users\\asiman\\source\\repos\\eduhome\\eduhome\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{49E4543C-2793-45FA-B18D-05BE06F321CD}|EduHome\\EduHome.csproj|solutionrelative:eduhome\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -122,8 +178,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 12,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "EduHome\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T20:59:58.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "EduHome\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:56:38.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Blog\\Detail.cshtml",
+              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\Blog\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Blog\\Detail.cshtml",
+              "RelativeToolTip": "EduHome\\Areas\\Admin\\Views\\Blog\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T20:52:02.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "RelativeToolTip": "EduHome\\Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T20:38:59.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Blog\\Create.cshtml",
+              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\Blog\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Blog\\Create.cshtml",
+              "RelativeToolTip": "EduHome\\Areas\\Admin\\Views\\Blog\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T20:36:12.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BlogCreateVm.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\ViewModels\\BlogViewModels\\BlogCreateVm.cs",
+              "RelativeDocumentMoniker": "EduHome\\ViewModels\\BlogViewModels\\BlogCreateVm.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\ViewModels\\BlogViewModels\\BlogCreateVm.cs",
+              "RelativeToolTip": "EduHome\\ViewModels\\BlogViewModels\\BlogCreateVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:07:53.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "EduHome\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T20:03:55.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "EduHome\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwC0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T20:02:39.182Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -134,96 +294,228 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Course\\Detail.cshtml",
-              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\Course\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Course\\Detail.cshtml",
-              "RelativeToolTip": "EduHome\\Areas\\Admin\\Views\\Course\\Detail.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T18:52:54.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Course\\Index.cshtml",
-              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\Course\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Course\\Index.cshtml",
-              "RelativeToolTip": "EduHome\\Areas\\Admin\\Views\\Course\\Index.cshtml",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAABcAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-19T20:28:58.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "EduHome\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Models\\Category.cs",
-              "RelativeToolTip": "EduHome\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T20:28:21.053Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "CourseCreateVm.cs",
-              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\ViewModels\\CourseViewModels\\CourseCreateVm.cs",
-              "RelativeDocumentMoniker": "EduHome\\ViewModels\\CourseViewModels\\CourseCreateVm.cs",
-              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\ViewModels\\CourseViewModels\\CourseCreateVm.cs",
-              "RelativeToolTip": "EduHome\\ViewModels\\CourseViewModels\\CourseCreateVm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T20:27:27.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Controllers\\CourseController.cs",
-              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "EduHome\\Areas\\Admin\\Controllers\\CourseController.cs",
-              "ViewState": "AQIAAPcAAAAAAAAAAAAgwAABAABkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T20:12:48.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Course\\Create.cshtml",
               "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\Course\\Create.cshtml",
               "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Course\\Create.cshtml",
               "RelativeToolTip": "EduHome\\Areas\\Admin\\Views\\Course\\Create.cshtml",
-              "ViewState": "AQIAADcAAAAAAAAAAAAkwFMAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-19T20:29:11.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "EduHome\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAswEQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T20:28:58.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Program.cs",
+              "RelativeDocumentMoniker": "EduHome\\Program.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Program.cs",
+              "RelativeToolTip": "EduHome\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:11:58.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Course\\Update.cshtml",
               "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\Course\\Update.cshtml",
               "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Course\\Update.cshtml",
               "RelativeToolTip": "EduHome\\Areas\\Admin\\Views\\Course\\Update.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAABCAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-21T18:16:33.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Course\\Detail.cshtml",
+              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\Course\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Course\\Detail.cshtml",
+              "RelativeToolTip": "EduHome\\Areas\\Admin\\Views\\Course\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T18:52:54.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EduHome\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T13:29:01.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "EduHome\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:12:48.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "EduHome\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Models\\Blog.cs",
+              "RelativeToolTip": "EduHome\\Models\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T19:47:07.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BlogCategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Controllers\\BlogCategoryController.cs",
+              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Controllers\\BlogCategoryController.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Controllers\\BlogCategoryController.cs",
+              "RelativeToolTip": "EduHome\\Areas\\Admin\\Controllers\\BlogCategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T19:53:46.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\BlogCategory\\Update.cshtml",
+              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\BlogCategory\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\BlogCategory\\Update.cshtml",
+              "RelativeToolTip": "EduHome\\Areas\\Admin\\Views\\BlogCategory\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T20:00:05.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\BlogCategory\\Create.cshtml",
+              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\BlogCategory\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\BlogCategory\\Create.cshtml",
+              "RelativeToolTip": "EduHome\\Areas\\Admin\\Views\\BlogCategory\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T19:56:19.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryCreateVm.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\ViewModels\\CategoryViewModels\\CategoryCreateVm.cs",
+              "RelativeDocumentMoniker": "EduHome\\ViewModels\\CategoryViewModels\\CategoryCreateVm.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\ViewModels\\CategoryViewModels\\CategoryCreateVm.cs",
+              "RelativeToolTip": "EduHome\\ViewModels\\CategoryViewModels\\CategoryCreateVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:21:02.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BlogCategoryCreateVm.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\ViewModels\\BlogCategoryViewModels\\BlogCategoryCreateVm.cs",
+              "RelativeDocumentMoniker": "EduHome\\ViewModels\\BlogCategoryViewModels\\BlogCategoryCreateVm.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\ViewModels\\BlogCategoryViewModels\\BlogCategoryCreateVm.cs",
+              "RelativeToolTip": "EduHome\\ViewModels\\BlogCategoryViewModels\\BlogCategoryCreateVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T19:57:08.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\BlogCategory\\Index.cshtml",
+              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\BlogCategory\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\BlogCategory\\Index.cshtml",
+              "RelativeToolTip": "EduHome\\Areas\\Admin\\Views\\BlogCategory\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T19:54:53.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240724195308_addedBlogsAndBlogCategories.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Migrations\\20240724195308_addedBlogsAndBlogCategories.cs",
+              "RelativeDocumentMoniker": "EduHome\\Migrations\\20240724195308_addedBlogsAndBlogCategories.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Migrations\\20240724195308_addedBlogsAndBlogCategories.cs",
+              "RelativeToolTip": "EduHome\\Migrations\\20240724195308_addedBlogsAndBlogCategories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T19:53:08.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "EduHome\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAswHYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:08:02.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "EduHome\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T13:18:59.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "EduHome\\Views\\Home\\Index.cshtml",
@@ -235,7 +527,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "EduHome\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwDwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T13:13:35.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CourseCreateVm.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\ViewModels\\CourseViewModels\\CourseCreateVm.cs",
+              "RelativeDocumentMoniker": "EduHome\\ViewModels\\CourseViewModels\\CourseCreateVm.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\ViewModels\\CourseViewModels\\CourseCreateVm.cs",
+              "RelativeToolTip": "EduHome\\ViewModels\\CourseViewModels\\CourseCreateVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:27:27.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "FileService.cs",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Helpers\\FileService.cs",
               "RelativeDocumentMoniker": "EduHome\\Helpers\\FileService.cs",
@@ -243,24 +560,36 @@
               "RelativeToolTip": "EduHome\\Helpers\\FileService.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAA6wAkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T20:49:10.013Z",
+              "WhenOpened": "2024-07-19T20:49:10.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EduHome\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "EduHome\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:52:32.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "EduHome\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABoAAAAAAAAAAAAhwCUAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-19T13:29:01.59Z"
+              "DocumentIndex": 31,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "EduHome\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Models\\Category.cs",
+              "RelativeToolTip": "EduHome\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:28:21.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 29,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "EduHome\\Views\\Shared\\_Layout.cshtml",
@@ -272,43 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "EduHome\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-19T13:18:59.43Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "EduHome\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAACAAAAAAAAAAAAAqwDwAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-19T13:13:35.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CategoryCreateVm.cs",
-              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\ViewModels\\CategoryViewModels\\CategoryCreateVm.cs",
-              "RelativeDocumentMoniker": "EduHome\\ViewModels\\CategoryViewModels\\CategoryCreateVm.cs",
-              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\ViewModels\\CategoryViewModels\\CategoryCreateVm.cs",
-              "RelativeToolTip": "EduHome\\ViewModels\\CategoryViewModels\\CategoryCreateVm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T13:21:02.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 35,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -320,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 33,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -332,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 32,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Views\\Category\\Update.cshtml",
               "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Views\\Category\\Update.cshtml",
@@ -344,19 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "EduHome\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "EduHome\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAGQAAAAAAAAAAAAhwHQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T13:08:02.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 36,
               "Title": "20240719130656_addedCourses.cs",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Migrations\\20240719130656_addedCourses.cs",
               "RelativeDocumentMoniker": "EduHome\\Migrations\\20240719130656_addedCourses.cs",
@@ -368,7 +649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 34,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "EduHome\\Views\\_ViewImports.cshtml",
@@ -380,7 +661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 37,
               "Title": "20240719120856_init.cs",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Migrations\\20240719120856_init.cs",
               "RelativeDocumentMoniker": "EduHome\\Migrations\\20240719120856_init.cs",
@@ -392,7 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 38,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Models\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "EduHome\\Models\\Common\\BaseEntity.cs",
@@ -404,7 +685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 39,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "EduHome\\Controllers\\HomeController.cs",
@@ -416,19 +697,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Contexts\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "EduHome\\Contexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Contexts\\AppDbContext.cs",
-              "RelativeToolTip": "EduHome\\Contexts\\AppDbContext.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T11:52:32.848Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 40,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "EduHome\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -440,7 +709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 41,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\appsettings.json",
               "RelativeDocumentMoniker": "EduHome\\appsettings.json",
@@ -449,37 +718,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-19T12:02:31.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Program.cs",
-              "RelativeDocumentMoniker": "EduHome\\Program.cs",
-              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Program.cs",
-              "RelativeToolTip": "EduHome\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAACGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T12:11:58.699Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "EduHome\\Models\\Course.cs",
-              "ToolTip": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\Models\\Course.cs",
-              "RelativeToolTip": "EduHome\\Models\\Course.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAwwBAAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T12:30:33.699Z",
-              "EditorCaption": ""
             }
           ]
         }
