@@ -1,0 +1,33 @@
+﻿@model Teacher
+<div class="card" style="width: 36rem;margin:0 auto;">
+    <img class="card-img-top" src="~/img/@Model.ImagePath" alt="Card image cap">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Fullname</h5>
+    </div>
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item">Description: @Model.Description</li>
+        <li class="list-group-item">Profession: @Model.Profession</li>
+        <li class="list-group-item">Faculty: @Model.Faculty</li>
+        <li class="list-group-item">Experience: @Model.Experience</li>
+        <li class="list-group-item">Degree: @Model.Degree</li>
+        <li class="list-group-item">Hobbies: @Model.Hobbies</li>
+        <li class="list-group-item">Email: @Model.Email</li>
+        <li class="list-group-item">PhoneNumber: @Model.PhoneNumber</li>
+        <li class="list-group-item">Skype: @Model.Skype</li>
+        <ul>
+
+            Skills
+            <a class="btn btn-success" asp-action="CreateSkill" asp-route-id="@Model.Id">Create Skill</a>
+
+            @foreach (var item in Model.Skills)
+            {
+
+                <li class="list-group-item"># @item.Name - @item.Point      <a class="btn btn-danger" asp-action="DeleteSkill" asp-route-id="@item.Id">Remove</a></li>
+            }
+        </ul>
+
+    </ul>
+    <div class="card-body">
+        <a asp-action="Index" style="margin:0 auto" class="btn btn-secondary">Back</a>
+    </div>
+</div>

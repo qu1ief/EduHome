@@ -33,7 +33,7 @@
             <div class="form-group">
                 <label for="CatogoryIds">Categories</label>
                 <select class="form-control" asp-for="BlogCategoryId">
-                    <option selected disabled value="@null">Select Category</option>
+                    <option disabled value="@null">Select Category</option>
                     @foreach (BlogCategory category in ViewBag.Categories ?? new List<BlogCategory>())
                     {
                         <option value="@category.Id">@category.Name</option>

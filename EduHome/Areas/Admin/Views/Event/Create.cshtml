@@ -1,0 +1,63 @@
+﻿@model EventCreateVm
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Create Event</h4>
+        <form class="forms-sample" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="exampleInputUsername1">Image</label>
+                <input class="form-control" asp-for="Image" placeholder="Image" accept="image/*">
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="exampleInputPassword1">Name</label>
+                <input class="form-control" asp-for="Name" placeholder="Name">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label for="exampleInputPassword1">Description</label>
+                <input class="form-control" asp-for="Description" placeholder="Description">
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="exampleInputPassword1">Date</label>
+                <input class="form-control" asp-for="Date" placeholder="Date">
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="exampleInputPassword1">Venue</label>
+                <input class="form-control" asp-for="Venue" placeholder="Venue">
+                <span asp-validation-for="Venue" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="exampleInputPassword1">Time</label>
+                <input class="form-control" asp-for="Time" placeholder="Time">
+                <span asp-validation-for="Time" class="text-danger"></span>
+            </div>
+
+
+
+
+
+            <div class="form-group">
+                <label for="CatogoryIds">Speakers</label>
+                <select class="form-control" asp-for="SpeakerIds">
+                    <option  disabled value="@null">Select Category</option>
+                    @foreach (Speaker speaker in ViewBag.Speakers ?? new List<Speaker>())
+                    {
+                        <option value="@speaker.Id">@speaker.Fullname</option>
+                    }
+                </select>
+                <span asp-validation-for="SpeakerIds" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary mr-2">Create</button>
+            <a class="btn btn-light" asp-action="Index">Cancel</a>
+        </form>
+    </div>
+</div>

@@ -100,12 +100,10 @@ public class BlogController : Controller
         if (blog is null)
             return NotFound();
 
-
-        blog.ImagePath.DeleteFile(_imagePath);
-
         _context.Blogs.Remove(blog);
         await _context.SaveChangesAsync();
 
+        blog.ImagePath.DeleteFile(_imagePath);
 
 
         return RedirectToAction("Index");
@@ -167,16 +165,16 @@ public class BlogController : Controller
         }
 
 
-        existBlog.Title=vm.Title;
-        existBlog.Description=vm.Description;
-        existBlog.Author=vm.Author;
-        existBlog.BlogCategoryId=vm.BlogCategoryId;
+        existBlog.Title = vm.Title;
+        existBlog.Description = vm.Description;
+        existBlog.Author = vm.Author;
+        existBlog.BlogCategoryId = vm.BlogCategoryId;
 
-        if(vm.Image is {})
+        if (vm.Image is { })
         {
             existBlog.ImagePath.DeleteFile(_imagePath);
 
-            existBlog.ImagePath=await vm.Image.CreateFileAsync(_imagePath);
+            existBlog.ImagePath = await vm.Image.CreateFileAsync(_imagePath);
         }
 
         _context.Blogs.Update(existBlog);

@@ -15,4 +15,11 @@ public class AppDbContext : DbContext
     public DbSet<Category> Categories { get; set; } = null!;
     public DbSet<Blog> Blogs { get; set; } = null!;
     public DbSet<BlogCategory> BlogCategories { get; set; } = null!;
+    public DbSet<Event> Events { get; set; } = null!;
+    public DbSet<Speaker> Speakers { get; set; } = null!;
+    public DbSet<Teacher> Teachers{ get; set; } = null!;
+    public DbSet<Skill> Skills{ get; set; } = null!;
+
+
+
 }

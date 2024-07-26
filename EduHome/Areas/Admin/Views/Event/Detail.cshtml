@@ -1,0 +1,24 @@
+﻿@model Event
+<div class="card" style="width: 36rem;margin:0 auto;">
+    <img class="card-img-top" src="~/img/@Model.ImagePath" alt="Card image cap">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+    </div>
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item">Description: @Model.Description</li>
+        <li class="list-group-item">Date: @Model.Date.ToShortDateString()</li>
+        <li class="list-group-item">Venue: @Model.Venue</li>
+        <ul>
+            Speakers
+            @foreach (var item in Model.EventSpeakers)
+            {
+
+                <li class="list-group-item">Speaker: @item.Speaker.Fullname  </li>
+            }
+        </ul>
+
+    </ul>
+    <div class="card-body">
+        <a asp-action="Index" style="margin:0 auto" class="btn btn-secondary">Back</a>
+    </div>
+</div>

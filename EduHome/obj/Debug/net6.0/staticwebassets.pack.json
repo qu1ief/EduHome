@@ -7577,8 +7577,16 @@
       "PackagePath": "staticwebassets\\img\\017bb687-8fb2-43dd-a9de-b868da76e1aa.jpg"
     },
     {
+      "Id": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\wwwroot\\img\\61ec8ecd-0fba-40ae-999c-f7bbf9bc0f76.jpg",
+      "PackagePath": "staticwebassets\\img\\61ec8ecd-0fba-40ae-999c-f7bbf9bc0f76.jpg"
+    },
+    {
       "Id": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\wwwroot\\img\\668a9e5d-4d42-495d-aff9-a381978f11e1.jpg",
       "PackagePath": "staticwebassets\\img\\668a9e5d-4d42-495d-aff9-a381978f11e1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\wwwroot\\img\\726fd845-adcf-4e41-8452-ad4690f5cd6c.jpg",
+      "PackagePath": "staticwebassets\\img\\726fd845-adcf-4e41-8452-ad4690f5cd6c.jpg"
     },
     {
       "Id": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\wwwroot\\img\\about\\about.png",
@@ -7695,6 +7703,14 @@
     {
       "Id": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\wwwroot\\img\\course\\courses-details.jpg",
       "PackagePath": "staticwebassets\\img\\course\\courses-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\wwwroot\\img\\d124bb5e-808c-40e1-b4df-c0c6ec640321.jpg",
+      "PackagePath": "staticwebassets\\img\\d124bb5e-808c-40e1-b4df-c0c6ec640321.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\wwwroot\\img\\e5276e5f-6aa3-483a-9c91-f1b3efd9b973.jpg",
+      "PackagePath": "staticwebassets\\img\\e5276e5f-6aa3-483a-9c91-f1b3efd9b973.jpg"
     },
     {
       "Id": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\wwwroot\\img\\event\\event-details.jpg",
