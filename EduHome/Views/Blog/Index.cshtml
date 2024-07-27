@@ -1,0 +1,62 @@
+﻿@model List<Blog>
+
+
+@await Component.InvokeAsync("Banner", new { name = "Blogs" })
+
+@{
+    int pageCount = ViewBag.PageCount;
+    int currentPage = ViewBag.CurrentPage;
+}
+<!-- Blog Start -->
+<div class="blog-area pt-150 pb-150">
+    <div class="container">
+        <div class="row">
+            @if (Model.Count > 0)
+            {
+                @foreach (var blog in Model)
+                {
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div class="single-blog mb-60">
+                            <div class="blog-img">
+                                <a asp-action="Detail" asp-route-id="@blog.Id"><img src="~/img/@blog.ImagePath" alt="blog"></a>
+                                <div class="blog-hover">
+                                    <i class="fa fa-link"></i>
+                                </div>
+                            </div>
+                            <div class="blog-content">
+                                <div class="blog-top">
+                                    <p>@blog.Author  /  @blog.CreatedTime.ToShortDateString()  </p>
+                                </div>
+                                <div class="blog-bottom">
+                                    <h2><a href="blog-details.html">@(blog.Description.Length > 30 ? blog.Description.Substring(0, 30) : blog.Description) </a></h2>
+                                    <a asp-action="Detail" asp-route-id="@blog.Id">read more</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                }
+            }
+            else
+            {
+                <h2> Blog is not found :(</h2>
+            }
+
+        </div>
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="pagination">
+                    <ul>
+                        @for (int i = 1; i <= pageCount; i++)
+                        {
+
+                            <li><a asp-action="Index" asp-route-page="@i">@i</a></li>
+                        }
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Blog End -->

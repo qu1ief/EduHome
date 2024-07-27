@@ -1,11 +1,13 @@
 ﻿using EduHome.Contexts;
 using EduHome.Models;
 using EduHome.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace EduHome.Areas.Admin.Controllers;
 [Area("Admin")]
+[Authorize(Roles ="Admin")]
 public class BlogCategoryController : Controller
 {
     private readonly AppDbContext _context;

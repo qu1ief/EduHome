@@ -1,0 +1,51 @@
+﻿@model BlogDetailVm
+
+@await Component.InvokeAsync("Banner", new { name = "Blog Detail" })
+<!-- Blog Start -->
+<div class="blog-details-area pt-150 pb-140">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="blog-details">
+                    <div class="blog-details-img">
+                        <img src="~/img/@Model.Blog.ImagePath" alt="blog-details">
+                    </div>
+                    <div class="blog-details-content">
+                        <h2>@Model.Blog.Description </h2>
+                        <h6>@Model.Blog.Author  /  @Model.Blog.CreatedTime.ToShortDateString() /</h6>
+                        <p>I must explain to you how all this a mistaken idea of denouncing great explorer of the rut the is lder of human haness pcias unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque sa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam volutatem quia voluptas sit asnatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui </p>
+                    </div>
+                    @await Component.InvokeAsync("Reply")
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="blog-sidebar right">
+                    <div class="single-blog-widget mb-47">
+                        <h3>search</h3>
+                        <div class="blog-search">
+                            <form id="search" asp-action="Index">
+                                <input type="search" placeholder="Search..." required name="search" />
+                                <button type="submit">
+                                    <span><i class="fa fa-search"></i></span>
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="single-blog-widget mb-47">
+                        <h3>categories</h3>
+                        <ul>
+                            @foreach (var category in Model.BlogCategories)
+                            {
+                                <li><a asp-action="Index" asp-route-categoryId="@category.Id">@category.Name (@category.Blogs.Count)</a></li>
+
+                            }
+
+                        </ul>
+                    </div>
+                 
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Blog End -->

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ai+MDeZf2hz3ZyL3bddg2YWzmGUqRkPdSpr1eQlmU5M=",
+  "Hash": "RI6YgdFr16RdPLjZXjeumP6cf/cui+JKmQXRu7y7tEs=",
   "Source": "EduHome",
   "BasePath": "_content/EduHome",
   "Mode": "Default",
@@ -36324,6 +36324,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\blog\\blog-img.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\wwwroot\\img\\c20b276a-ae75-45bd-afdf-0ea09e3ec0c0.jpg",
+      "SourceId": "EduHome",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\wwwroot\\",
+      "BasePath": "_content/EduHome",
+      "RelativePath": "img/c20b276a-ae75-45bd-afdf-0ea09e3ec0c0.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\c20b276a-ae75-45bd-afdf-0ea09e3ec0c0.jpg"
     },
     {
       "Identity": "C:\\Users\\Asiman\\source\\repos\\EduHome\\EduHome\\wwwroot\\img\\choose\\choose.png",

@@ -1,0 +1,79 @@
+﻿@model CourseDetailVm
+
+@await Component.InvokeAsync("Banner", new { name = "Course Detail" })
+<!-- Blog Start -->
+<div class="courses-details-area blog-area pt-150 pb-140">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="courses-details">
+                    <div class="courses-details-img">
+                        <img src="~/img/@Model.Course.ImagePath" alt="courses-details">
+                    </div>
+                    <div class="course-details-content">
+                        <h2>@Model.Course.Name</h2>
+                        <p>@Model.Course.Description </p>
+                        <div class="course-details-left">
+                            <div class="single-course-left">
+                                <h3>about course</h3>
+                                <p>@Model.Course.Description</p>
+                            </div>
+                            <div class="single-course-left">
+                                <h3>how to apply</h3>
+                                <p>I must explain to you how all this a mistaken idea of ncing great explorer of the rut the is lder of human happinescias unde omnis iste natus error sit volptatem accuntium mque laudantium perspiciatis unde omnis iste natuss</p>
+                            </div>
+                            <div class="single-course-left">
+                                <h3>certification</h3>
+                                <p class="margin">I must explain to you how all this a mistaken idea of ncing great explorer of the rut the is lder of human happinescias unde omnis iste natus error sit volptatem accuntium mque laudantium perspiciatis unde omnis iste natuss</p>
+                                <p>I must explain to you how all this a mistaken idea of ncing great explorer of the rut the is lder of human</p>
+                            </div>
+                        </div>
+                        <div class="course-details-right">
+                            <h3>COURSE FEATURES</h3>
+                            <ul>
+                                <li>starts <span>@Model.Course.StartTime.ToShortDateString()</span></li>
+                                <li>duration <span>@Model.Course.Duration</span></li>
+                                <li>class duration <span>@Model.Course.ClassDuration</span></li>
+                                <li>skill level <span>@Model.Course.SkillLevel</span></li>
+                                <li>language <span>@Model.Course.Language</span></li>
+                                <li>students <span>@Model.Course.StudentCount</span></li>
+                                <li>assesments <span>@Model.Course.Assesments</span></li>
+                            </ul>
+                            <h3 class="red">course fee $@Model.Course.Price</h3>
+                        </div>
+                    </div>
+                 @await Component.InvokeAsync("Reply")
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="blog-sidebar right">
+                    <div class="single-blog-widget mb-50">
+                        <h3>search</h3>
+                        <div class="blog-search">
+                            <form id="search" asp-action="Index">
+                                <input type="search" placeholder="Search..." required name="search" />
+                                <button type="submit">
+                                    <span><i class="fa fa-search"></i></span>
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="single-blog-widget mb-50">
+                        <h3>categories</h3>
+                        <ul>
+                            @foreach (var category in Model.Categories)
+                            {
+                                <li><a asp-action="Index" asp-route-categoryId="@category.Id">@category.Name (@category.CourseCategories.Count)</a></li>
+
+                            }
+
+                        </ul>
+                    </div>
+                 
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Blog End -->

@@ -17,6 +17,10 @@ public class TeacherUpdateVm
     [Phone]
     public string PhoneNumber { get; set; } = null!;
     public string Skype { get; set; } = null!;
+    public string FacebookLink { get; set; } = null!;
+    public string PinterestLink { get; set; } = null!;
+    public string VKLink { get; set; } = null!;
+    public string TwitterLink { get; set; } = null!;
     public IFormFile? Image { get; set; } 
     public string? ImagePath { get; set; } 
 

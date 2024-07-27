@@ -1,0 +1,49 @@
+﻿@model Event
+
+@await Component.InvokeAsync("Banner",new{name="Event Detail"})
+        <!-- Event Details Start -->
+<div class="event-details-area blog-area pt-150 pb-140">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="event-details">
+                    <div class="event-details-img">
+                        <img src="~/img/@Model.ImagePath" alt="event-details">
+                        <div class="event-date">
+                            <h3>@Model.Date.Day <span>@Model.Date.ToString("MMMM")</span></h3>
+                        </div>
+                    </div>
+                    <div class="event-details-content">
+                        <h2>@Model.Name</h2>
+                        <ul>
+                            <li><span>time : </span>@Model.Time</li>
+                            <li><span>venue : </span>@Model.Venue</li>
+                        </ul>
+                        <p>@Model.Description </p>
+                        <p>@Model.Description </p>
+                        <div class="speakers-area fix">
+                            <h4>speakers</h4>
+                            @foreach (var eventSpeaker in Model.EventSpeakers)
+                            {
+                            <div class="single-speaker">
+                                <div class="speaker-img">
+                                    <img src="~/img/@eventSpeaker.Speaker.ImagePath" alt="speaker">
+                                </div>
+                                <div class="speaker-name">
+                                    <h5>@eventSpeaker.Speaker.Fullname</h5>
+                                    <p>@eventSpeaker.Speaker.Profession </p>
+                                </div>
+                            </div>
+                                
+                            }
+                         
+                        </div>
+                    </div>
+     @await Component.InvokeAsync("Reply")
+                </div>
+            </div>
+        
+        </div>
+    </div>
+</div>
+<!-- Event Details End -->

@@ -2,11 +2,14 @@
 using EduHome.Helpers;
 using EduHome.Models;
 using EduHome.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace EduHome.Areas.Admin.Controllers;
 [Area("Admin")]
+[Authorize(Roles = "Admin")]
+
 public class TeacherController : Controller
 {
     private readonly AppDbContext _context;
@@ -61,6 +64,11 @@ public class TeacherController : Controller
             Profession = vm.Profession,
             Skype = vm.Skype,
             ImagePath = filename,
+            FacebookLink = vm.FacebookLink,
+            PinterestLink = vm.PinterestLink,
+            TwitterLink = vm.TwitterLink,
+            VKLink = vm.VKLink,
+            
         };
 
         await _context.Teachers.AddAsync(teacher);
@@ -115,6 +123,10 @@ public class TeacherController : Controller
             PhoneNumber = teacher.PhoneNumber,
             Profession = teacher.Profession,
             Skype = teacher.Skype,
+            FacebookLink= teacher.FacebookLink,
+            VKLink= teacher.VKLink,
+            TwitterLink= teacher.TwitterLink,
+            PinterestLink= teacher.PinterestLink,
 
         };
 
@@ -149,6 +161,10 @@ public class TeacherController : Controller
         existTeacher.Fullname = vm.Fullname;
         existTeacher.Skype = vm.Skype;
         existTeacher.Hobbies = vm.Hobbies;
+        existTeacher.VKLink= vm.VKLink;
+        existTeacher.FacebookLink=vm.FacebookLink;
+        existTeacher.TwitterLink=vm.TwitterLink;
+        existTeacher.PinterestLink= vm.PinterestLink;
 
         if (vm.Image is { })
         {

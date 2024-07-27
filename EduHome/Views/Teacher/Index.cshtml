@@ -1,0 +1,35 @@
+﻿@model List<Teacher>
+
+
+@await Component.InvokeAsync("Banner", new { name = "Teachers" })
+<!-- Teacher Start -->
+<div class="teacher-area pt-150 pb-105">
+    <div class="container">
+        <div class="row">
+
+            @foreach (var teacher in Model)
+            {
+                <div class="col-md-3 col-sm-4 col-xs-12">
+                    <div class="single-teacher mb-45">
+                        <div class="single-teacher-img">
+                            <a asp-action="Detail" asp-route-id="@teacher.Id"><img src="~/img/@teacher.ImagePath" alt="teacher"></a>
+                        </div>
+                        <div class="single-teacher-content text-center">
+                            <h2><a asp-action="Detail" asp-route-id="@teacher.Id">@teacher.Fullname</a></h2>
+                            <h4>@teacher.Profession</h4>
+                            <ul>
+                                <li><a href="@teacher.FacebookLink"><i class="zmdi zmdi-facebook"></i></a></li>
+                                <li><a href="@teacher.PinterestLink"><i class="zmdi zmdi-pinterest"></i></a></li>
+                                <li><a href="@teacher.VKLink"><i class="zmdi zmdi-vimeo"></i></a></li>
+                                <li><a href="@teacher.TwitterLink"><i class="zmdi zmdi-twitter"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+            }
+         
+        </div>
+    </div>
+</div>
+<!-- Teacher End -->

@@ -1,0 +1,24 @@
+﻿<div class="reply-area">
+    <h3>LEAVE A message</h3>
+    <p>I must explain to you how all this a mistaken idea of ncing great explorer of the rut the is lder of human happinescias unde omnis iste natus error sit volptatem </p>
+    <form id="contact-form" asp-action="Index" asp-controller="Contact" asp-route-returnUrl="@Context.Request.Path.Value" method="post">
+        <div class="row">
+            <div class="col-md-12">
+                <p>Name</p>
+                <input type="text" required name="Name" id="name">
+            </div>
+            <div class="col-md-12">
+                <p>Email</p>
+                <input type="email" name="Email" id="email">
+            </div>
+            <div class="col-md-12">
+                <p>Subject</p>
+                <input type="text" name="Subject" id="subject">
+                <p>Massage</p>
+                <textarea name="Message" cols="15" rows="10"></textarea>
+            </div>
+        </div>
+        <button class="reply-btn btn btn-primary" type="submit" data-text="send"><span>send message</span></button>
+        <p class="form-messege"></p>
+    </form>
+</div>
